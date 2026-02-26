@@ -14,7 +14,7 @@ public:
         else
             return false;
     }
-};
+ };
 
 int main() {
     Solution sol;
